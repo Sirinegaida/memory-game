@@ -1,0 +1,39 @@
+body{
+	background-color:#f94144 ;
+}
+header{
+	color: #000000;
+	text-align: center;
+	font-size: 50px;
+}
+img{
+	height: 200px;
+	width: 200px;
+}
+#game{
+	margin-left:25% ;
+	margin-right: 20%;
+}
+td{
+	height: 250px;
+	width: 250;
+}
+#start_restart{
+	margin-top: 1%;
+	margin-left:39%;
+	margin-right: 30%;
+	visibility: visible;
+}
+#button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 30px 64px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
